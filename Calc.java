@@ -19,7 +19,7 @@ public class Calc{
             switch(choice)
             {
                 case '1' :
-                case '2' : 
+                case '2' : Substraction
                 case '3' :
                 case '4' :
                 case '5' :
@@ -33,6 +33,7 @@ public class Calc{
             System.out.print("\n---------------------------------------\n");
         }while(choice != 5); 
 		//edited by abdul
+                system.print("2. subtraction");
 		System.out.print("5. Power of 2\n");
             System.out.print("6. Squareroot\n");
             System.out.print("7. Exit\n\n");
