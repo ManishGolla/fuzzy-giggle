@@ -41,4 +41,4 @@ public class Calc{
 			//till here by abdul
 		
     }
-}
+}Subha Calc
