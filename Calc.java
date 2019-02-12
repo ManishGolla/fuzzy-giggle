@@ -33,4 +33,4 @@ public class Calc{
             System.out.print("\n---------------------------------------\n");
         }while(choice != 5); 
     }
-}
+}Subha Calc
