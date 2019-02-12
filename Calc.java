@@ -24,6 +24,7 @@ public class Calc{
                 default : System.out.print("Wrong Choice!!!");
                     break;
             }
+             System.out.print("Hello");
             System.out.print("\n---------------------------------------\n");
         }while(choice != 5); 
     }
