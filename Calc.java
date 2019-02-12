@@ -21,7 +21,7 @@ public class Calc{
                 case '1' :
                 case '2' : Substraction
                 case '3' :
-                case '4' :
+                case '4' : Division
                 case '5' :
                 case '6' :Square root of a number
                 case '7' : System.exit(0);
