@@ -23,7 +23,7 @@ public class Calc{
                 case '3' :
                 case '4' :
                 case '5' :
-                case '6' :
+                case '6' :Square root of a number
                 case '7' : System.exit(0);
                     break;
                 default : System.out.print("Wrong Choice!!!");
