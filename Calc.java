@@ -32,5 +32,12 @@ public class Calc{
              System.out.print("Hello");
             System.out.print("\n---------------------------------------\n");
         }while(choice != 5); 
+		//edited by abdul
+		System.out.print("5. Power of 2\n");
+            System.out.print("6. Squareroot\n");
+            System.out.print("7. Exit\n\n");
+            System.out.print("Enter Your Choice : ");
+			//till here by abdul
+		
     }
 }Subha Calc
