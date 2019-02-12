@@ -11,9 +11,6 @@ public class Calc{
             System.out.print("2. Subtraction \n");
             System.out.print("3. Multiplication\n");
             System.out.print("4. Division\n");
-            System.out.print("5. Power of 2\n");
-            System.out.print("6. Squareroot\n");
-            System.out.print("7. Exit\n\n");
             System.out.print("Enter Your Choice : ");
             choice = scan.next().charAt(0);
             switch(choice)
@@ -28,16 +25,6 @@ public class Calc{
                     break;
                 default : System.out.print("Wrong Choice!!!");
                     break;
-            }
-             System.out.print("Hello");
-            System.out.print("\n---------------------------------------\n");
-        }while(choice != 5); 
-		//edited by abdul
-		System.out.print("5. Power of 2\n");
-            System.out.print("6. Squareroot\n");
-            System.out.print("7. Exit\n\n");
-            System.out.print("Enter Your Choice : ");
-			//till here by abdul
-		
+            } 
     }
-}Subha Calc
+}
